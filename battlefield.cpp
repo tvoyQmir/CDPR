@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
 int main(){
-cout << "For the horde" << endl;
+cout << "for the Alliance" << endl;
 return 0;
 }
